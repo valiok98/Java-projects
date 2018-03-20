@@ -1,0 +1,6 @@
+Die Nogivan Aufgabe funktioniert,soweit ich die getestet habe, 
+und benutzt eine Zwischendatei um die richtige OSM Detei zu speichern.
+AnotherTestAns.oms lautet der Name.
+Das Source Folder vom Package nogivan heisst src.
+Das kann wichtig sein, wenn Probleme mit der Dateioeffnung auftauchen.
+Entschuldigung, wenn das passiert.
